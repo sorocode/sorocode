@@ -1,7 +1,7 @@
 # 👨‍💻 Seonghyeon Kim (김성현)
 
 ### 🚀 Economics & CS Double Major | Backend Developer
-안녕하세요! 경제학적 사고와 컴퓨터공학적 기술력을 결합하여 비즈니스 가치를 창출하는 개발자 김성현입니다.
+Hello! I'm Kim Seonghyeon, a developer who creates business value by combining economic thinking and computer engineering technology.
 
 - 🎓 **Kyungpook National University** (Economics & CS)
 - 🇯🇵 **Kyushu University** Exchange Student (2025)
