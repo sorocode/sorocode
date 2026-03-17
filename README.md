@@ -1,7 +1,7 @@
 # 👨‍💻 Seonghyeon Kim (김성현)
 
 ### 🚀 Economics & CS Double Major | Full-Stack Developer
-Hello! I'm Kim Seonghyeon, a developer who creates business value by combining economic thinking and computer engineering technology.
+Hello! I'm Kim Seonghyeon, a developer who creates business value by combining economic thinking and computer engineering.
 
 - 🎓 **Kyungpook National University** (Economics & CS)
 - 🇯🇵 **Kyushu University** Exchange Student (2025)
