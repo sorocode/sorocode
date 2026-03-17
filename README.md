@@ -15,7 +15,7 @@ Hello! I'm Kim Seonghyeon, a developer who creates business value by combining e
 - **Languages:** Java, JavaScript (TypeScript), C/C++, Python, SQL
 - **Backend:** Spring Boot, Node.js
 - **Frontend:** React.js
-- **Certifications:** Engineer Information Processing, SQLD, JLPT N1, TOEIC 900
+- **Certifications:** Engineer Information Processing, SQLD, JLPT N1, TOEIC 900, OPIc IH
 
 ---
 
