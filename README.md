@@ -1,6 +1,6 @@
 # 👨‍💻 Seonghyeon Kim (김성현)
 
-### 🚀 Economics & CS Double Major | Backend Developer
+### 🚀 Economics & CS Double Major | Full-Stack Developer
 Hello! I'm Kim Seonghyeon, a developer who creates business value by combining economic thinking and computer engineering technology.
 
 - 🎓 **Kyungpook National University** (Economics & CS)
