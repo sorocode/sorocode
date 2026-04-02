@@ -17,8 +17,3 @@ Hello! I'm Kim Seonghyeon, a developer who creates business value by combining e
 - **Frontend:** React.js
 - **Infrastructure & Tools:** Docker, AWS, Git, MySQL
 - **Certifications:** Engineer Information Processing, SQLD, JLPT N1, TOEIC 900, OPIc IH
-
----
-
-### 📈 GitHub Stats
-![sorocode's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorocode&show_icons=true&theme=radical)
