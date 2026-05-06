@@ -6,7 +6,7 @@ Hello! I'm Kim Seonghyeon, a developer who creates business value by combining e
 - 🎓 **Kyungpook National University** (Economics & CS)
 - 🇯🇵 **Kyushu University** Exchange Student (2025)
 - 💼 **KODIT (Korea Credit Guarantee Fund)** Intern (Outstanding Intern Award)
-- 🏆 **Grand Prize** at AI Voice Recognition Access System Project
+- 🏆 **Grand Prize** at 2025 KNU AI industry-academia linkage project
 - 🏅 **Special Prize** at "Dalbit-ton" Joint University Hackathon
 
 ---
